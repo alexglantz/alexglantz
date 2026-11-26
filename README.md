@@ -10,4 +10,4 @@ Building an autonomous, LLM-powered agent system using **LangChain, FastAPI, and
 * **AI, Data & Cloud:** Python, LangChain, PyTorch, Azure, Docker, Kubernetes, CI/CD (GitHub Actions), Terraform
 * **Engineering & PM:** FastAPI, pydantic, ruff, pytest, API Design, Agile Leadership
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/glantz/) | alexander.glantz@gmail.com
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/glantz/) | [Resume](https://alexglantz.github.io/resume/) | alexander.glantz@gmail.com
